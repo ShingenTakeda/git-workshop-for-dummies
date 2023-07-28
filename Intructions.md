@@ -16,4 +16,4 @@
 
 - **git branch** ***BRANCH NAME*** to create a branch(kinda like an anternative reality)
 - **git checkout** ***BRANCH NAME** to go to that branch
-- **git merge** to merge branches
+- **git merge** ***BRANCH NAME*** to merge branches, remember to fix conflicts!
