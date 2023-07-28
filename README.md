@@ -6,6 +6,6 @@ Test repo for those who want to learn about git!
 
 **npx vite** to run the CUUUUBE!
 
-[img](RAT.png)
+![img](RAT.png)
 
 **CTR-c** to kill!
